@@ -6,4 +6,4 @@ To run the program:
 
 Message me if you have any issues
 
-! [screenshot] (UML-PRNG.png)
+! [screenshot] (./UML-PRNG.png)
